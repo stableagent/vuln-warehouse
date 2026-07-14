@@ -1,6 +1,8 @@
 # Vuln Warehouse - انبار آسیب‌پذیری‌های امنیتی
 
 **نویسنده:** سعید  اسمعیل‌زایی  
+- **لینکدین:** [https://www.linkedin.com/in/esmailzaee](https://www.linkedin.com/in/esmailzaee)
+ 
 **مجوز:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](#مجوز)
 
 ---
